@@ -1,5 +1,10 @@
 {
-  "keys": [],
+  "keys": [
+    {
+      "key": "SKY-Q0QLM97F",
+      "expire": null
+    }
+  ],
   "sistemaBloqueado": false,
   "whiteLabel": {
     "appName": "SKY CHEATS",
