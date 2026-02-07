@@ -1,17 +1,12 @@
 {
-  "keys": [
-    {
-      "key": "SKY-Q0QLM97F",
-      "expire": null
-    }
-  ],
+  "keys": [],
   "sistemaBloqueado": false,
   "whiteLabel": {
     "appName": "SKY CHEATS",
     "loginTitle": "LOGIN SKY CHEATS",
     "infoText": "Auxílio Premium",
     "creator": "Criador por Stark",
-    "version": "Versão 1.0",
-    "site": "https://seusite.com"
+    "version": "Versão 2.0",
+    "site": "https://skycheatsbr.com"
   }
 }
