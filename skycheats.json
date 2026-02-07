@@ -1,5 +1,10 @@
 {
-  "keys": [],
+  "keys": [
+    {
+      "key": "SKY-MQUTMF4U",
+      "expire": 1770439157173
+    }
+  ],
   "sistemaBloqueado": false,
   "whiteLabel": {
     "appName": "SKY CHEATS",
